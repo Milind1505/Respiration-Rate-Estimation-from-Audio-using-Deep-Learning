@@ -1,12 +1,15 @@
-Understanding Pleural Effusion
+# Understanding Pleural Effusion
+
 This document provides a brief overview of Pleural Effusion, a medical condition that served as inspiration for the Respiration Rate Estimation project.
 
-What is Pleural Effusion?
+# What is Pleural Effusion?
+
 Pleural effusion, sometimes referred to as "water on the lungs," is a buildup of excess fluid in the pleural space. The pleural space is the thin space between the two layers of the pleura, the membranes that surround the lungs and line the inside of the chest cavity.
 
 The pleura normally produces a small amount of fluid to lubricate the lungs as they expand and contract during breathing. However, various medical conditions can cause too much fluid to accumulate in this space.
 
-Causes of Pleural Effusion
+# Causes of Pleural Effusion
+
 Pleural effusion can be caused by a wide range of conditions, including:
 
 Heart Failure: This is one of the most common causes, as the heart's inability to pump blood effectively can lead to fluid backup in the lungs and pleural space.
@@ -26,7 +29,7 @@ Cough: A dry cough may be present.
 Fever: If the effusion is caused by an infection.
 In some cases, small pleural effusions may not cause any symptoms and are only discovered during imaging tests for other conditions.
 
-Diagnosis
+# Diagnosis
 Diagnosing pleural effusion typically involves:
 
 Medical History and Physical Exam: The doctor will ask about symptoms and medical history and listen to the lungs.
@@ -35,7 +38,9 @@ Chest X-ray: This is often the first test to visualize fluid in the pleural spac
 CT Scan: Provides more detailed images of the lungs and pleural space.
 Ultrasound: Can help locate smaller effusions and guide procedures.
 Thoracentesis: A procedure where a needle is inserted into the pleural space to remove fluid. The fluid is then analyzed to determine the cause of the effusion.
-Treatment
+
+# Treatment
+
 Treatment for pleural effusion depends on the underlying cause and the severity of the symptoms. It may include:
 
 Treating the Underlying Condition: Addressing the root cause (e.g., heart failure, infection, cancer) is crucial.
@@ -43,5 +48,7 @@ Thoracentesis: Removing excess fluid to relieve symptoms like shortness of breat
 Pleurodesis: A procedure to prevent fluid from building up again by sealing the pleural space.
 Catheter Placement: In some cases, a catheter may be inserted for ongoing drainage.
 Medications: Diuretics may be used to help the body eliminate excess fluid in some cases.
-Connection to the Respiration Rate Estimation Project
+
+# Connection to the Respiration Rate Estimation Project
+
 Understanding conditions like pleural effusion highlights the importance of monitoring respiratory health. Changes in respiration rate and patterns can be indicators of worsening fluid buildup and distress. The AI/ML prototype for respiration rate estimation from audio aims to provide a non-invasive method for potentially monitoring such changes, offering a valuable tool that could complement traditional diagnostic and monitoring methods and potentially ease the burden on patients and caregivers.
